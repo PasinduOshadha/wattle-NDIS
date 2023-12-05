@@ -1,0 +1,11 @@
+export const FONTS = "Roboto";
+export const FONTS2 = "'Kaushan Script', cursive";
+export const FONTS_RC = "'Roboto Condensed', sans-serif";
+export const FONTS_AC = "'Asap Condensed', sans-serif";
+export const FONTS_ANOTON = "'Anton', sans-serif";
+export const FONTS_INTER = "'Inter', sans-serif";
+export const FONTS_CR = "'Courgette', cursive";
+export const FONTS_LEAGUE = "'League Gothic', sans-serif";
+export const FONTS_CHEWY = "'Chewy', cursive";
+export const FONTS_CHALISTOGO = "'Calistoga', cursive";
+export const FONTS_RS = " 'Roboto Slab', serif";

@@ -1,0 +1,51 @@
+export const COLORS = {
+  Primary: "#21949F",
+  Primary2: "#26A59A",
+  Primary3: "#00BFA5",
+  Primary4: "#8CB0B4",
+  // PrimaryText: "#21949F",
+  PrimaryText: "#808182",
+  PrimaryBackground: "#E0F2F1",
+
+  // Orange: "#FF9201",
+  Orange: "#FFA814",
+  Orange2: "#ffc004",
+  Orange3: "#FF940D",
+  Orange4: "#FF9201",
+
+  TextColor: "#767575",
+  TextColor2: "#585858",
+  TextColor3: "#A3A3A3",
+
+  TitleColor: "#494848",
+  // TitleColor: "#767575",
+  TitleColor2: "#3f3f3f",
+  TitleColor3: "#B4B4B4",
+  TitleColor4: "#a3a3a3",
+  TitleColor5: "#5b5959",
+  TitleColor6: "#494848",
+  TitleColor7:"#201B17",
+  TitleColor8 :"#545050",
+
+  GrayBackground: "#f2f2f2",
+  GrayDark: "#B4B4B4",
+  GrayDark2: "#5B5959",
+  GrayDark3: "#f4f4f4",
+  GrayDark4: "#808182",
+  GrayDark5: "#D1D3D5",
+  GrayDark6: "#A3A3A3",
+  GrayDark7: "#545454",
+  GrayDark8: "#DFDFDF",
+  GrayDark9: "#848484",
+  GrayBackground2: "#E9E5E5",
+  InputBorderColor: "#e8e7e7  ",
+
+  RedError: "#EF4554",
+  Red: "#FD234A",
+  Red2: "#ED1D24",
+  WeatColor: "#F7F6F2",
+
+  yellow: "#FFC004",
+
+  green: "#6DC871",
+};
